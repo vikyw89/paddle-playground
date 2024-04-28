@@ -3,7 +3,7 @@ async def arun():
     import os
 
     current_dir = os.path.curdir
-    input_dir = os.path.join(current_dir, "inputs")
+    input_dir = os.path.join(current_dir, "pdfs")
 
     files = os.listdir(input_dir)
 

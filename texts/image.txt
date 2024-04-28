@@ -1,1 +1,130 @@
-exceeding what Is eThe above issue happens due to the version mismatch. they missed to add those changes . I think they willR C Why does the BRKfix in upcoming commits as it discussed in paddleOcR discussions. But this will not break for sure as weonly change the method name as per upgrade. Downgrading the version might be affecting the functionality Is there such a thinof paddleOCR pdf.  Innoviki Jul 21, 2023 at 12:34 +Why Is The VoltageAdd a. commentCalculated? A short fantasy fictinovel "NeverwhereI Solved the issue by uninstalling the pymupdf library (previously installed with paddleocr[} HDD: 0x8007012Eautomatically) the below commandto complete this opr0 If I wanted to build!pip uinstall pymupdfabsorb the radiatiorHow to tally a list oifirst element of theThen installed specific version of pymupdf==1.19.0 and issue resolved successfullyWhat is the advanta ES6 inner join equi!pip install --ignore-installed pymupdf==1.19.0Mo Reference for an oNow it's working fine!IIN Why do journals retrevised manuscriptNote: ! sign in front of commands tells the notebook it's a command (not a simple code) so if you9 Canada visitor visaare running code outside of the notebook you need to remove ! from the baseWhy does this "hotisolated by an activcapacitor?Share Edit Followedited Aug 28, 2023 at 13:27answered Jul 18, 2023 at 13:27Exporting temporarAsif3.8 Parents' house repinheritanceAdd a commentM Question feedYour Answerexceeding what Is eThe above issue happens due to the version mismatch. they missed to add those changes . I think they willR C Why does the BRKfix in upcoming commits as it discussed in paddleOcR discussions. But this will not break for sure as weonly change the method name as per upgrade. Downgrading the version might be affecting the functionality Is there such a thinof paddleOCR pdf.  Innoviki Jul 21, 2023 at 12:34 +Why Is The VoltageAdd a. commentCalculated? A short fantasy fictinovel "NeverwhereI Solved the issue by uninstalling the pymupdf library (previously installed with paddleocr[} HDD: 0x8007012Eautomatically) the below commandto complete this opr0 If I wanted to build!pip uinstall pymupdfabsorb the radiatiorHow to tally a list oifirst element of theThen installed specific version of pymupdf==1.19.0 and issue resolved successfullyWhat is the advanta ES6 inner join equi!pip install --ignore-installed pymupdf==1.19.0Mo Reference for an oNow it's working fine!IIN Why do journals retrevised manuscriptNote: ! sign in front of commands tells the notebook it's a command (not a simple code) so if you9 Canada visitor visaare running code outside of the notebook you need to remove ! from the baseWhy does this "hotisolated by an activcapacitor?Share Edit Followedited Aug 28, 2023 at 13:27answered Jul 18, 2023 at 13:27Exporting temporarAsif3.8 Parents' house repinheritanceAdd a commentM Question feedYour Answer
+Activities
+ Visual Studio Code
+Apr 28 13:37
+File Edit
+Selection
+View Go Run
+Terminal
+Help
+ paddle-playground
+EXPLORER
+? pymupdf_rag.py X
+? pdf_to_image.py M
+? any_to_pdfs.py U
+?n>..
+home > vikyw > .cache > pypoetry > virtualenvs > src-rG_ktix-py3.11 > lib > python3.11 > site-packages > pdf4llm > helpers >  pymupdf_rag.py >  to_markdown
+O
+> any
+def to_markdown(doc: fitz.Document, pages: list = Nc
+one) -> str:
+ markdowns
+287
+ text_rects.append(("text",  page. rect, - 0))
+ 6MLH-display-case-sales-sheet-2.md
+288
+else:
+289
+-rtype, :r, -idx = text_rects[-1]
+017
+# image.md
+290
+if rtype =-
+'table":
+v pdfg
+291
+tr = page.rect
+- 6MLH-display-case-sales-sheet-2.pdf
+292
+tr.y0 = r.y1
+ image.pdf
+293
+if not tr.is empty:
+j SPOILER_image_cropped184.pdf
+294
+text_rects.append(("text", -tr, - 0))
+295
+v scripts
+296
+# - we - have- all- rectangles - and can- start - outputting their - contents
+> _pycache_
+for rtype, - r, -idx in text_rects:.
+? start.py
+298
+if - rtype ==. "text": - .# - a text - rectangle
+A
+v src
+299
+ md_string += write_text(page, r, hdr_prefix) --#-write-MD-content
+ pycache_
+300
+- md_string += "\n"
+301
+else: :
+# a table rect
+V services
+302
+- md_string += tabs [idx] .to_markdown(clean=False)
+> _pycache_
+303
+ any_to_pdfs.py
+304
+md_string += "\n
+\n\n'
+ image_to_text.py
+305
+? pdf_to_image.py
+return md_string
+ pdf_to_markdowns.py
+307
+? main.py
+308
+{..}
+309
+v texts
+1+
+name
+main ":
+310
+import os
+E image copy.txt
+311
+import sys
+F image.txt
+312
+import - time
+F SPOILER_image_cropped184.txt
+313
+ .gitignore
+314
+try:
+F poetry.lock
+PROBLEMS
+OUTPUT
+ DEBUG CONSOLE
+TERMINAL
+PORTS
+COMMENTS
+# pyproject.toml
+ README.md
+return loop.run until.complete(task)
+return f:result@
+File "/usr/lib/python3.11/asyncio/futures:py"'
+, line 203, in result.
+File "
+"/usr/Lib/pyth
+ step
+result :
+coro.send(None)
+/pdf_to_markdowns.py", line 17, in arun.
+id text =
+pdf4llm:to_mar!
+down?doc=Tite_patn..pages=!o!.
+hdr prefix = :
+IdentifyHeaders(doc.. pages=pages).
+8
+body_limit - sorted!
+> OutLinE
+IndexError: list index out of range.
+>TIMELINE
+R:~/Desktop/paddle-playground$ 
+ alpha* 01

@@ -1,9 +1,9 @@
 async def arun():
     import pdf4llm
     import os
-
+    import fitz
     current_dir = os.path.curdir
-    input_dir = os.path.join(current_dir, "inputs")
+    input_dir = os.path.join(current_dir, "pdfs")
 
     files = os.listdir(input_dir)
 
@@ -12,8 +12,7 @@ async def arun():
         file_path = os.path.join(input_dir, file)
         if not os.path.isfile(file_path):
             continue
-        md_text = pdf4llm.to_markdown(os.path.join(input_dir, file))
         save_path = os.path.join(current_dir, "markdowns", f"{file.split('.')[0]}.md")
-        with open(os.path.join(save_path), mode="w") as f:
-            md_text = pdf4llm.to_markdown(file_path, pages=None)
+        with open(save_path, mode="w") as f:
+            md_text = pdf4llm.to_markdown(doc=file_path)
             f.write(md_text)
